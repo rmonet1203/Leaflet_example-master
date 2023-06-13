@@ -1,0 +1,13 @@
+.map-layout-container {
+  width: 100%;
+  display: flex;
+  /* justify-content: flex-start; */
+}
+
+.list-view-container {
+  flex-basis: 20%;
+}
+
+.map-view-container {
+  flex-basis: 80%;
+}
